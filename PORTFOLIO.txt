@@ -1,0 +1,1721 @@
+HTML:
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" type="text/css" href="styleee.css">
+
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
+
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css"/>
+
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"/>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Aishu Portfolio</title>
+</head>
+<body>
+
+<div class="Website-container">
+	
+
+<section class="home" id="home">
+	
+	
+	<nav class="navbar">
+
+		<ul class="nav-links">
+			<li><a href="#home">Home</a></li>
+			<li><a href="#about">About</a></li>
+			<li><a href="#services">Services</a></li>
+			<li><a href="#portfolio">Portfolio</a></li>
+			<li><a href="#testimonials">Reviews</a></li>
+		</ul>
+
+		<a href="#contactForm" class="button-wrapper">
+			<button class="btn contact-btn">Contact</button>
+		</a>
+
+		<div class="menu-btn">
+			<span class="bar"></span>
+			<span class="bar"></span>
+			<span class="bar"></span>
+		</div>
+	</nav>
+	
+	<div class="hero">
+		<div class="hero-text">
+			<h3>Hey, There</h3>
+			<h1>I am Aishu </h1>
+			<h2> Web Designer & Developer</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+			<button class="btn hire-btn">Hire Me</button>
+		</div>
+
+		<div class="hero-image">
+			<img src="https://img.freepik.com/premium-vector/beautiful-women-excited-expressions_96037-110.jpg">
+		</div>
+	</div>
+	
+	<div class="career-container">
+		<div class="career-item">
+			<span class="icon"><i class="fa-solid fa-briefcase"></i></span>
+			<span class="career-desc">
+				<h2>2 Years of</h2>
+				<p>Experience</p>
+			</span>
+		</div>
+
+		<div class="career-item">
+			<span class="icon"><i class="fa-solid fa-file"></i></span>
+			<span class="career-desc">
+				<h2>40+ Projects</h2>
+				<p>Completed</p>
+			</span>
+		</div>
+
+		</div>
+	</div>
+	
+
+</section>
+
+<section class="about" id="about">
+	
+	
+	<div class="about-image">
+		<img src="https://img.freepik.com/premium-vector/beautiful-women-excited-expressions_96037-110.jpg">
+		<div class="social-media">
+			<i class="fa-brands fa-facebook-f"></i>
+			<i class="fa-brands fa-linkedin-in"></i>
+			<i class="fa-brands fa-instagram"></i>
+			<i class="fa-brands fa-twitter"></i>
+		</div>
+	</div>
+	
+	<div class="about-desc">
+		<h3>About Me</h3>
+		<h2>Professional Web Designer & Developer having 9+ years of experience</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+		<div class="about-personal-info">
+			<div><span>Name:</span><span>Aishu H</span></div>
+			<div><span>Age:</span><span>24 Years</span></div>
+			<div><span>Email:</span><span>aiha47@gmail.com</span></div>
+			<div><span>Hobby:</span><span> Reading Books</span></div>
+		</div>
+		<button class="btn download-btn">Download CV</button>
+	</div>
+	
+
+</section>
+
+<section class="services reusable" id="services">
+	
+	
+	<header class="headings">
+		<h3>Services</h3>
+		<h1>I Provide Awesome Services</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	</header>
+	
+	<div class="services-container">
+		
+		<div class="service-box">
+			<div class="icon-wrapper">
+				<i class="fa-solid fa-palette"></i>
+			</div>
+			<h2>Web Design</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<h3>40+ Projects</h3>
+		</div>
+
+		<div class="service-box">
+			<div class="icon-wrapper">
+				<i class="fa-solid fa-code"></i>
+			</div>
+			<h2>Web Development</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<h3>50+ Projects</h3>
+		</div>
+
+		<div class="service-box">
+			<div class="icon-wrapper">
+				<i class="fa-solid fa-mobile-screen"></i>
+			</div>
+			<h2>App Development</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<h3>40+ Projects</h3>
+		</div>
+
+	</div>
+	
+</section>
+
+<section class="resume reusable" id="resume">
+	
+	
+	<header class="headings">
+		<h3>Resume</h3>
+		<h1>Education & Experience</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	</header>
+	
+	<div class="resume-row">
+		
+		
+		<div class="column column-left">
+			<header class="sub-heading">
+				<h2>EDUCATION</h2>
+			</header>
+
+			<main class="resume-contents">
+				<div class="box">
+					<h4>2016 - 2018</h4>
+					<h3>Computer Application (M)</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+					<h5 class="vanue">North Euro University</h5>
+				</div>
+
+				<div class="box">
+					<h4>2012 - 2015</h4>
+					<h3>Computer Application (B)</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+					<h5 class="vanue">North Euro University</h5>
+				</div>
+
+				<div class="box">
+					<h4>2000 - 2012</h4>
+					<h3>High School Degree</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+					<h5 class="vanue">Istanbul</h5>
+				</div>
+			</main>
+		</div>
+		
+		<div class="column column-right">
+			<header class="sub-heading">
+				<h2>EXPERIENCE</h2>
+			</header>
+
+			<main class="resume-contents">
+				<div class="box">
+					<h4>2022- 2023</h4>
+					<h3>Senior Web Developer</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+					<h5 class="vanue">Netlink</h5>
+				</div>
+
+				<div class="box">
+					<h4>2020- 2022</h4>
+					<h3>Front-End Web Developer</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+					<h5 class="vanue">Development World</h5>
+				</div>
+
+				<div class="box">
+					<h4>2019- 2020</h4>
+					<h3>UI/UX Designer</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+					<h5 class="vanue">Design House</h5>
+				</div>
+			</main>
+		</div>
+	
+	</div>
+	
+
+</section>
+
+<section class="portfolio reusable" id="portfolio">
+	
+	
+	<header class="headings">
+		<h3>Portfolio</h3>
+		<h1>Some Of My Latest Works</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	</header>
+
+	<main class="mainContainer">
+		
+		
+		<div class="button-group">
+			<button class="button active" data-filter="*">All</button>
+			<button class="button" data-filter=".design">Design</button>
+			<button class="button" data-filter=".code">Development</button>
+			<button class="button" data-filter=".logo">Logo</button>
+		</div>
+		
+		<div class="gallery">
+			
+			
+			<div class="item design">
+				<img src="https://images.unsplash.com/photo-1541480601022-2308c0f02487?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJhbmRvbSUyMG9iamVjdHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60">
+				<div class="overlay">
+					<a href="image/a2.jpg">VIEW MORE</a>
+				</div>
+			</div>
+			
+			<div class="item design">
+				<img src="https://images.unsplash.com/photo-1587590227264-0ac64ce63ce8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwb2JqZWN0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60">
+				<div class="overlay">
+					<a href="images/design2.jpg">VIEW MORE</a>
+				</div>
+			</div>
+			
+			<div class="item code">
+				<img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwb2JqZWN0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60">
+				<div class="overlay">
+					<a href="images/website1.jpg">VIEW MORE</a>
+				</div>
+			</div>
+			
+			<div class="item code">
+				<img src="https://images.unsplash.com/photo-1605870445919-838d190e8e1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwb2JqZWN0c3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60">
+				<div class="overlay">
+					<a href="images/website2.jpg">VIEW MORE</a>
+				</div>
+			</div>
+			
+			<div class="item code">
+				<img src="https://media.istockphoto.com/id/1357653946/photo/minimalistic-spinning-wooden-whipping-top-in-action-on-the-white-background.jpg?s=612x612&w=0&k=20&c=thORHG9DXdHK_a1v5Exj9cdtsSAuQ9NpVBchazKuJmE=">
+				<div class="overlay">
+					<a href="images/website3.jpg">VIEW MORE</a>
+				</div>
+			</div>
+			
+			<div class="item logo">
+				<img src="https://media.istockphoto.com/id/637732250/photo/group-of-black-and-white-lottery-balls.jpg?s=612x612&w=0&k=20&c=7ZlGT8cvW-0u3g2F7_HXLFYDrdZ1N2yXfUlRXrizKvg=">
+				<div class="overlay">
+					<a href="image/a5.jpg">VIEW MORE</a>
+				</div>
+			</div>
+		
+
+		</div>
+
+	</main>
+
+</section>
+
+<section class="testimonials reusable" id="testimonials">
+	
+	
+	<header class="headings">
+		<h3>Testimonials</h3>
+		<h1>What People Say</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	</header>
+	
+	<div class="owl-carousel owl-theme testimonials-container">
+
+    	<div class="item testimonial-card">
+    		<main class="test-card-body">
+    			<div class="quote">
+    				<i class="fa fa-quote-left"></i>
+    				<h2>Awesome Coding</h2>
+    			</div>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+    			<div class="ratings">
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    			</div>
+    		</main>
+    		<div class="profile">
+    			<div class="profile-image">
+    				<img src="data:image/jpeg;base64,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">
+    			</div>
+    			<div class="profile-desc">
+    				<span>John Doe</span>
+    				<span>Description</span>
+    			</div>
+    		</div>
+    	</div>
+    
+    	<div class="item testimonial-card">
+    		<main class="test-card-body">
+    			<div class="quote">
+    				<i class="fa fa-quote-left"></i>
+    				<h2>Unique Design</h2>
+    			</div>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+    			<div class="ratings">
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    			</div>
+    		</main>
+    		<div class="profile">
+    			<div class="profile-image">
+    				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuu71i6zi2I4ijwYYqsSiwWP1sxO6ASfxCQ&usqp=CAU">
+    			</div>
+    			<div class="profile-desc">
+    				<span>Mary Doe</span>
+    				<span>Description</span>
+    			</div>
+    		</div>
+    	</div>
+    
+    	<div class="item testimonial-card">
+    		<main class="test-card-body">
+    			<div class="quote">
+    				<i class="fa fa-quote-left"></i>
+    				<h2>Just Awesome</h2>
+    			</div>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+    			<div class="ratings">
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    			</div>
+    		</main>
+    		<div class="profile">
+    			<div class="profile-image">
+    				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgUEm7RMzveeXCrfdSpQQALxwtAacdTvMvzJ9r3HW0TMu-cSzZdXtes6-3jfcAg06p00&usqp=CAU">
+    			</div>
+    			<div class="profile-desc">
+    				<span>Albert Smith</span>
+    				<span>Description</span>
+    			</div>
+    		</div>
+    	</div>
+    	
+    	<div class="item testimonial-card">
+    		<main class="test-card-body">
+    			<div class="quote">
+    				<i class="fa fa-quote-left"></i>
+    				<h2>Awesome Coding</h2>
+    			</div>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+    			<div class="ratings">
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    			</div>
+    		</main>
+    		<div class="profile">
+    			<div class="profile-image">
+    				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8rDOnU6a9vBB4HoKMnWCnjzn_Zvc4uoi7MsQGm_Zi9sBLAy-ZXnwLgvHBMHC5Nmxcc74&usqp=CAU">
+    			</div>
+    			<div class="profile-desc">
+    				<span>Aishu haran</span>
+    				<span>Description</span>
+    			</div>
+    		</div>
+    	</div>
+    	
+    	<div class="item testimonial-card">
+    		<main class="test-card-body">
+    			<div class="quote">
+    				<i class="fa fa-quote-left"></i>
+    				<h2>Simple Ways</h2>
+    			</div>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+    			<div class="ratings">
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    			</div>
+    		</main>
+    		<div class="profile">
+    			<div class="profile-image">
+    				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAfOGmPnvlTfR9J36jaeRMFZv5zVmKoSPTqCW1HuzqN9-vLxn5y3kBb8aRjvGqbiJ6_w&usqp=CAU">
+    			</div>
+    			<div class="profile-desc">
+    				<span>Haran </span>
+    				<span>Description</span>
+    			</div>
+    		</div>
+    	</div>
+    
+    	<div class="item testimonial-card">
+    		<main class="test-card-body">
+    			<div class="quote">
+    				<i class="fa fa-quote-left"></i>
+    				<h2>Awesome Coding</h2>
+    			</div>
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+    			<div class="ratings">
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    				<i class="fa-solid fa-star"></i>
+    			</div>
+    		</main>
+    		<div class="profile">
+    			<div class="profile-image">
+    				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1tAmksVPoBE-JiGkQv95f6IbQnnNAE4HM6W1kziKBP3dRJnJqIX2HuicUDsxeX2si_7k&usqp=CAU">
+    			</div>
+    			<div class="profile-desc">
+    				<span>Etimad Khan</span>
+    				<span>Description</span>
+    			</div>
+    		</div>
+    	</div>
+   
+
+	</div>
+
+
+</section>
+
+<section class="contact-form" id="contactForm">
+	<div class="contact-row">
+		
+	
+		<div class="contact-col column-1">
+			<div class="contactTitle">
+				<h2>Get In Touch</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+			</div>
+
+			<form class="form-1">
+				<div class="inputGroup">
+					<input type="text" name="" required="required">
+					<label>Your Name</label>
+				</div>
+
+				<div class="inputGroup">
+					<input type="email" name="" required="required">
+					<label>Email</label>
+				</div>
+			</form>
+
+			<div class="contactSocialMedia">
+				<a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+				<a href="#"><i class="fa-brands fa-twitter"></i></a>
+				<a href="#"><i class="fa-brands fa-instagram"></i></a>
+				<a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+			</div>
+		</div>
+		
+		<div class="contact-col column-2">
+			<form class="form-2">
+				<div class="inputGroup">
+					<textarea required="required"></textarea>
+					<label>Say Something</label>
+				</div>
+				<button class="form-button">MESSAGE ME</button>
+			</form>
+		</div>
+		
+
+	</div>
+</section>
+
+<section class="page-footer">
+	
+	<footer class="footer-contents">
+		<a href="#">Aishwarya </a>
+		<p>Created by <span>Five-Star Tutorials</span> | All rights reserved.</p>
+	</footer>
+	
+</section>
+
+
+
+
+</div>
+
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" ></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
+
+
+
+
+CSS:
+
+
+
+CSS:
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+html{
+	scroll-behavior: smooth;
+
+	--bg-clr-one: #f6f9fe;
+	--bg-clr-two: #f4f7fc;
+	--bg-clr-three: #eef1f6;
+	--primary-clr: #d05517;
+	--primary-light-clr: #eaf3fa;
+	--links-clr: #6229d4;
+	--text-clr: #3f7277;
+	--secondary-heading: #277b6d;
+}
+
+
+button.btn{
+	background-color: var(--primary-clr);
+	color: var(--bg-clr-one);
+	border: 1px solid transparent;
+	border-radius: 25px;
+	font-size: 16px;
+	padding: 10px 18px;
+	letter-spacing: 1px;
+	cursor: pointer;
+	transition: 0.4s;
+}
+button.btn:hover{
+	background-color: var(--bg-clr-one);
+	color: var(--primary-clr);
+	border: 1px solid var(--primary-clr);
+}
+
+.Website-container section.reusable{
+	width: 100%;
+	padding: 70px 8% 50px;
+}
+.Website-container section.reusable .headings{
+	max-width: 700px;
+	margin: 0px auto 45px;
+	text-align: center;
+}
+.Website-container section.reusable .headings h3{
+	font-size: 17px;
+	color: var(--links-clr);
+}
+.Website-container section.reusable .headings h1{
+	position: relative;
+	font-size: 32px;
+	margin: 10px 0px 15px;
+	color: var(--primary-clr);
+}
+.Website-container section.reusable .headings p{
+	font-size: 15px;
+	color: var(--text-clr);
+}
+
+
+body{
+	width: 100%;
+	min-height: 100vh;
+}
+.Website-container{
+	position: relative;
+	max-width: 1500px;
+	margin: 0px auto;
+}
+
+.home{
+	position: relative;
+	width: 100%;
+	min-height: 100vh;
+	background-color: var(--bg-clr-one);
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.home .navbar{
+	position: fixed;
+	width: 100%;
+	max-height: 100px;
+	height: 13vh;
+	top: 0;
+	left: 0;
+	padding: 0px 8%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	z-index: 100;
+	transition: 0.4s;
+}
+.home.active .navbar{
+	top: 0;
+	position: fixed;
+	max-height: 70px;
+	height: 10vh;
+	background-color: var(--bg-clr-one);
+	box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.15);
+}
+.navbar .logo img{
+	width: 110px;
+	height: auto;
+}
+.navbar ul.nav-links{
+	list-style: none;
+}
+.navbar ul.nav-links li{
+	display: inline-block;
+	margin: 0px 18px;
+}
+.navbar ul.nav-links li a{
+	position: relative;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 15px;
+	color: var(--links-clr);
+	transition: color 0.4s;
+}
+.navbar ul.nav-links li a::after{
+	position: absolute;
+	content: '';
+	width: 100%;
+	height: 2px;
+	top: 110%;
+	left: 0;
+	background-color: var(--primary-clr);
+	transform: scaleX(0);
+	transition: 0.4s;
+}
+.navbar ul.nav-links li a:hover::after{
+	transform: scaleX(1);
+}
+button.contact-btn{
+	padding: 8px 15px;
+	font-size: 15px;
+	border-radius: 5px;
+}
+.navbar .menu-btn{
+	cursor: pointer;
+	user-select: none;
+	display: none;
+}
+.navbar .menu-btn .bar{
+	display: block;
+	width: 26px;
+	height: 3px;
+	background-color: var(--primary-clr);
+	margin: 5px auto;
+	border-radius: 5px;
+	transition: all 0.3s cubic-bezier(1, 0.3, 0.3, 1);
+}
+.home .hero{
+	position: relative;
+	width: 100%;
+	min-height: 100vh;
+	padding: 0px 8%;
+	display: flex;
+	align-items: center;
+	overflow: hidden;
+}
+.hero .hero-text{
+	position: relative;
+	top: -10px;
+	z-index: 1;
+}
+.hero .hero-text h3{
+	font-size: 20px;
+	color: var(--primary-clr);
+	opacity: 0.9;
+}
+.hero .hero-text h1{
+	position: relative;
+	font-size: 45px;
+	color: var(--primary-clr);
+	margin: 12px 0px 25px;
+}
+.hero .hero-text h1::after{
+	content: '';
+	position: absolute;
+	height: 3px;
+	width: 40px;
+	background-color: var(--primary-clr);
+	left: 0;
+	top: 110%;
+}
+.hero .hero-text h2{
+	font-size: 22px;
+	letter-spacing: 1px;
+	color: var(--primary-clr);
+}
+.hero .hero-text p{
+	max-width: 500px;
+	color: var(--links-clr);
+	margin: 15px 0px 35px;
+	line-height: 1.2;
+}
+.hero .hero-text .hire-btn{
+	padding: 10px 35px;
+	box-shadow: 0px 20px 24px 3px rgba(5,85,92,0.2);
+}
+.hero .hero-text .hire-btn:hover{
+	box-shadow: 0px 5px 15px 3px rgba(5,85,92,0.2);
+}
+.hero .hero-image{
+	position: absolute;
+	width: 500px;
+	height: 900px;
+	background-color: var(--primary-light-clr);
+	border-bottom-left-radius: 250px;
+	border-bottom-right-radius: 250px;
+	transform: rotate(40deg);
+	right: -30px;
+	top: -220px;
+	overflow: hidden;
+	z-index: 0;
+}
+.hero .hero-image img{
+	position: absolute;
+	width: auto;
+	height: auto;
+	object-fit: cover;
+	transform: rotate(-40deg);
+	left: 20px;
+	bottom: 0px;
+}
+.home .career-container{
+	position: relative;
+	width: 100%;
+	height: auto;
+	margin-top: -100px;
+	left: 0;
+	padding: 0px 8% 10px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 15px 2%;
+}
+.career-container .career-item{
+	background-color: var(--bg-clr-one);
+	height: 70px;
+	display: flex;
+	align-items: center;
+	padding: 10px 15px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.15);
+}
+.career-container .career-item .icon{
+	display: inline-block;
+	background-color: var(--primary-clr);
+	min-width: 50px;
+	width: 50px;
+	height: 50px;
+	margin-right: 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+}
+.career-container .career-item .icon i{
+	font-size: 22px;
+	color: var(--bg-clr-one);
+}
+.career-container .career-item .career-desc{
+	display: inline-block;
+}
+.career-item .career-desc h2{
+	font-size: 20px;
+	line-height: 1.4;
+	color: var(--primary-clr);
+}
+.career-item .career-desc p{
+	font-size: 14px;
+	color: var(--text-clr);
+}
+
+.about{
+	padding: 90px 8% 40px;
+	display: flex;
+	justify-content: space-between;
+}
+.about .about-image{
+	position: relative;
+	flex-basis: 3%;
+	height: 300px;
+	max-height: 400px;
+	background-color: var(--primary-light-clr);
+}
+.about .about-desc{
+	flex-basis: 65%;
+	margin-left: 3%;
+}
+body{
+	background-color: #bfcfcc;
+}
+.about .about-image::before{
+	position: absolute;
+	content: '';
+	width: calc(100% - 15px);
+	height: calc(100% - 15px);
+	outline: 3px solid var(--primary-clr);
+	top: -10px;
+	left: -10px;
+	z-index: 1;
+}
+.about .about-image img{
+	position: relative;
+	width: 100%;
+	min-width: 280px;
+	height: 100%;
+	object-fit: cover;
+	z-index: 2;
+}
+.about .about-image .social-media{
+	position: absolute;
+	top: 50%;
+	left: calc(100% - 10px);
+	transform: translate(-50%, -50%);
+	z-index: 3;
+	background-color: var(--primary-clr);
+	padding: 15px;
+	border-radius: 5px;
+}
+.about .about-image .social-media i{
+	color: var(--bg-clr-one);
+	margin: 8px 0px;
+	cursor: pointer;
+	transition: 0.4s;
+}
+.about .about-image .social-media i:hover{
+	transform: scale(1.2);
+}
+.about .about-desc h3{
+	font-size: 17px;
+	color: var(--links-clr);
+}
+.about .about-desc h2{
+	margin: 10px 0px;
+	font-size: 22px;
+	color: var(--primary-clr);
+}
+.about .about-desc p{
+	font-size: 15px;
+	color: var(--text-clr);
+}
+.about-desc .about-personal-info{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 10px 20px;
+	margin-top: 14px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid var(--primary-clr);
+}
+.about-personal-info div{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.about-personal-info div span{
+	color: var(--text-clr);
+	letter-spacing: 1px;
+}
+.about-desc .download-btn{
+	border-radius: 25px;
+	margin-top: 25px;
+}
+
+.services .services-container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 10px;
+}
+.services-container .service-box{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	flex-basis: 32%;
+	padding: 40px 40px 30px;
+	background-color: var(--bg-clr-one);
+	border: 1px solid var(--bg-clr-three);
+	border-radius: 5px;
+	margin-bottom: 20px;
+	overflow: hidden;
+	cursor: pointer;
+	transition: 0.4s;
+	z-index: 1;
+}
+.service-box .icon-wrapper{
+	position: relative;
+	background-color: var(--primary-clr);
+	font-size: 30px;
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 10px;
+	transition: 0.3s;
+	z-index: 3;
+}
+.service-box .icon-wrapper i{
+	font-size: 24px;
+	color: var(--bg-clr-one);
+	transition: 0.3s;
+}
+.service-box h2{
+	padding: 15px 0px 10px;
+	color: var(--primary-clr);
+	font-size: 20px;
+	transition: 0.3s;
+}
+.service-box p{
+	color: var(--text-clr);
+	line-height: 1.3;
+	transition: 0.3s;
+}
+.service-box h3{
+	font-size: 16px;
+	color: var(--links-clr);
+	margin-top: 50px;
+}
+.services-container .service-box::after{
+	position: absolute;
+	content: '';
+	width: 100%;
+	height: 1.3%;
+	background-color: var(--primary-clr);
+	left: 0%;
+	bottom: 0%;
+	z-index: -1;
+	transition: all 0.4s cubic-bezier(0.69, 0.05, 0, 0.97);
+}
+.services-container .service-box:hover::after{
+	height: 100%;
+}
+.services-container .service-box:hover{
+	transform: translateY(-2px);
+	box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.15);
+}
+.services-container .service-box:hover.service-box .icon-wrapper{
+	background-color: var(--bg-clr-one);
+}
+.services-container .service-box:hover.service-box .icon-wrapper i{
+	color: var(--primary-clr);
+}
+.services-container .service-box:hover.service-box h2{
+	color: var(--bg-clr-one);
+}
+.services-container .service-box:hover.service-box p{
+	color: #aaa;
+}
+.services-container .service-box:hover.service-box h3{
+	color: #e3e3e8;
+}
+
+.resume{
+	background-color: var(--bg-clr-one);
+}
+.resume .resume-row{
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+}
+.resume-row .column .sub-heading{
+	color: var(--primary-clr);
+	padding: 0px 0px 20px 30px;
+}
+.column .resume-contents{
+	padding-left: 30px;
+	border-left: 2px solid var(--primary-clr);
+}
+.resume-contents .box{
+	position: relative;
+	padding: 20px;
+	border-bottom: 5px solid var(--bg-clr-one);
+	border-radius: 5px;
+	background-color: var(--primary-light-clr);
+	cursor: pointer;
+	transition: all 0.4s;
+}
+.resume-contents .box:nth-child(3){
+	border-bottom: 0px;
+}
+.resume-contents .box::before{
+	content: '';
+	position: absolute;
+	width: 12px;
+	height: 14px;
+	background-color: var(--primary-clr);
+	top: 21px;
+	left: -30px;
+}
+.resume-contents .box::after{
+	content: '';
+	position: absolute;
+	border-width: 7px;
+	border-style: solid;
+	border-color: transparent transparent transparent var(--primary-clr);
+	top: 21px;
+	left: -18px;
+}
+.resume-contents .box h4{
+	position: relative;
+	color: var(--secondary-heading);
+}
+.resume-contents .box h3{
+	font-size: 19px;
+	padding: 10px 0px 6px;
+	color: var(--primary-clr);
+	margin-top: 2px;
+}
+.resume-contents .box p{
+	margin-top: 3px;
+	line-height: 1.3;
+	color: var(--text-clr);
+	font-size: 15px;
+}
+.resume-contents .box h5{
+	position: relative;
+	margin-top: 12px;
+	right: 0;
+	text-align: right;
+	color: var(--secondary-heading);
+	font-weight: 500;
+}
+
+.portfolio .button-group{
+	text-align: center;
+	margin-bottom: 40px;
+}
+.portfolio .button-group .button{
+	display: inline-block;
+	padding: 10px 20px;
+	margin: 5px;
+	background-color: var(--primary-light-clr);
+	color: var(--primary-clr);
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	transition: all 0.4s;
+	border: none;
+	border-radius: 5px;
+	outline: none;
+	cursor: pointer;
+	font-size: 12px;
+}
+.portfolio .button-group .button.active{
+	background-color: var(--primary-clr);
+	color: var(--bg-clr-one);
+}
+.portfolio .button-group .button:hover{
+	background-color: var(--primary-clr);
+	color: var(--bg-clr-one);
+}
+.portfolio .gallery{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+.portfolio .gallery .item{
+	position: relative;
+	width: calc(100% / 3);
+	border: 4px solid transparent;
+	overflow: hidden;
+	cursor: pointer;
+}
+.gallery .item img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
+	transition: 0.3s;
+}
+.gallery .item:hover img{
+	transform: scale(1.15);
+}
+.gallery .item .overlay{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(5,85,92,0.7);
+	color: var(--bg-clr-one);
+	padding: 15px;
+	overflow: hidden;
+	transition: opacity 0.2s ease-in-out;
+	opacity: 0;
+}
+.gallery .item:hover .overlay{
+	opacity: 1;
+}
+.item .overlay a{
+	display: inline-block;
+	padding: 8px 16px;
+	border: 2px solid var(--bg-clr-one);
+	color: var(--bg-clr-one);
+	text-decoration: none;
+	font-size: 14px;
+	transition: 0.3s;
+}
+.item .overlay a:hover{
+	background-color: var(--bg-clr-one);
+	color: var(--primary-clr);
+}
+
+.testimonials{
+	background-color: var(--bg-clr-one);
+}
+.testimonials-container{
+	position: relative;
+}
+.testimonials-container .testimonial-card{
+	padding: 20px;
+}
+.testimonial-card .profile{
+	display: flex;
+	align-items: center;
+	margin-top: 25px;
+}
+.profile .profile-image{
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-right: 15px;
+}
+.profile .profile-image img{
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	object-fit: cover;
+}
+.testimonial-card .test-card-body{
+	background-color: var(--primary-light-clr);
+	padding: 20px;
+}
+.test-card-body .quote{
+	display: flex;
+	align-items: center;
+}
+.test-card-body .quote i{
+	font-size: 45px;
+	color: var(--primary-clr);
+	margin-right: 20px;
+}
+.test-card-body .quote h2{
+	color: var(--primary-clr);
+}
+.test-card-body p{
+	margin: 10px 0px 15px;
+	font-size: 14px;
+	line-height: 1.5;
+	color: var(--text-clr);
+}
+.test-card-body .ratings{
+	margin-top: 20px;
+}
+.test-card-body .ratings i{
+	font-size: 17px;
+	color: var(--secondary-heading);
+	cursor: pointer;
+}
+.profile .profile-desc{
+	display: flex;
+	flex-direction: column;
+}
+.profile-desc span:nth-child(1){
+	font-size: 24px;
+	font-weight: bold;
+	color: var(--primary-clr);
+}
+.profile-desc span:nth-child(2){
+	font-size: 15px;
+	color: var(--text-clr);
+}
+.testimonials .owl-nav{
+	position: absolute;
+	right: 20px;
+	bottom: -10px;
+}
+.testimonials .owl-nav button{
+	border-radius: 50% !important;
+}
+.testimonials .owl-nav .owl-prev i,
+.testimonials .owl-nav .owl-next i{
+	padding: 10px !important;
+	border-radius: 50%;
+	font-size: 18px !important;
+	background-color: var(--primary-light-clr) !important;
+	color: var(--primary-clr);
+	cursor: pointer;
+	transition: 0.4s;
+}
+.testimonials .owl-nav .owl-prev i:hover,
+.testimonials .owl-nav .owl-next i:hover{
+	background-color: var(--primary-clr) !important;
+	color: var(--bg-clr-one);
+}
+.testimonials .owl-dots{
+	margin-top: 15px;
+}
+.testimonials .owl-dots .owl-dot span{
+	padding: 6px !important;
+}
+.testimonials .owl-dots .owl-dot.active span{
+	background-color: var(--primary-clr) !important;
+}
+
+
+.contact-form{
+	width: 100%;
+	padding: 70px 8% 50px;
+}
+.contact-form .contact-row{
+	width: 100%;
+	display: flex;
+	background-color: var(--bg-clr-one);
+}
+.contact-row .column-1{
+	flex-basis: 40%;
+	min-width: 320px;
+	padding: 50px;
+}
+.contact-row .column-2{
+	flex-basis: 60%;
+}
+.column-1 .contactTitle h2{
+	position: relative;
+	font-size: 36px;
+	color: var(--primary-clr);
+	display: inline-block;
+	margin-bottom: 25px;
+}
+.column-1 .contactTitle h2::before{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 1px;
+	top: 120%;
+	left: 0px;
+	background-color: var(--secondary-heading);
+}
+.column-1 .contactTitle h2::after{
+	content: '';
+	position: absolute;
+	width: 40%;
+	height: 3px;
+	top: calc(120% - 1px);
+	left: 0px;
+	background-color: var(--primary-clr);
+}
+.column-1 .contactTitle p{
+	font-size: 15px;
+	color: var(--text-clr);
+	letter-spacing: 1px;
+	line-height: 1.2;
+	padding-bottom: 20px;
+}
+.column-1 .form-1 .inputGroup{
+	position: relative;
+	margin: 40px 0px;
+}
+.column-1 .form-1 input{
+	width: 100%;
+	font-size: 18px;
+	padding: 2px 0px;
+	background-color: var(--bg-clr-one);
+	color: var(--primary-clr);
+	border: none;
+	border-bottom: 1px solid var(--text-clr);
+	outline: none;
+}
+.column-1 .form-1 label,
+.column-2 .form-2 label{
+	position: absolute;
+	left: 0;
+	bottom: 4px;
+	color: var(--text-clr);
+	font-size: 15px;
+	transition: 0.4s;
+	pointer-events: none;
+}
+.column-2 .form-2 label{
+	top: 25px;
+	left: 20px;
+}
+.column-1 .form-1 input:focus ~ label,
+.column-1 .form-1 input:valid ~ label,
+.column-2 .form-2 textarea:focus ~ label,
+.column-2 .form-2 textarea:valid ~ label{
+	transform: translateY(-30px);
+	font-size: 14px;
+	opacity: 0.8;
+}
+.column-1 .contactSocialMedia{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-wrap: wrap;
+	padding: 30px 0px 0px;
+}
+.column-1 .contactSocialMedia a{
+	width: 35px;
+	height: 35px;
+	text-decoration: none;
+	text-align: center;
+	margin-left: 15px;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	background-color: var(--primary-clr);
+	transition: 0.4s;
+}
+.column-1 .contactSocialMedia a i{
+	color: var(--bg-clr-one);
+	font-size: 18px;
+	line-height: 35px;
+	transition: 0.4s;
+}
+.column-1 .contactSocialMedia a:hover{
+	transform: translateY(-5px);
+	background-color: var(--bg-clr-one);
+	border: 1px solid var(--primary-clr);
+}
+.column-1 .contactSocialMedia a:hover i{
+	color: var(--primary-clr);
+}
+.column-2 .form-2{
+	width: 100%;
+	height: calc(100% - 50px);
+	padding-top: 50px;
+}
+.column-2 .form-2 .inputGroup{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	border-left: 1px solid var(--text-clr);
+}
+.column-2 .form-2 textarea{
+	width: 100%;
+	min-height: 100%;
+	display: block;
+	resize: none;
+	border: none;
+	outline: none;
+	background-color: var(--bg-clr-one);
+	color: var(--primary-clr);
+	padding: 20px;
+	font-size: 16px;
+}
+.column-2 .form-2 .form-button{
+	width: 100%;
+	height: 50px;
+	border: none;
+	outline: none;
+	background-color: var(--primary-clr);
+	color: var(--bg-clr-one);
+	font-size: 17px;
+	letter-spacing: 1px;
+	text-align: center;
+	cursor: pointer;
+	transition: 0.4s;
+}
+.column-2 .form-2 .form-button:hover{
+	background-color: var(--links-clr);
+}
+
+.page-footer{
+	width: 100%;
+	padding: 20px 8%;
+	margin-top: 20px;
+	background-color: var(--primary-light-clr);
+}
+.page-footer .footer-contents{
+	display: flex;
+	justify-content: space-between;
+	text-align-last: center;
+}
+.footer-contents a{
+	text-decoration: none;
+	font-size: 22px;
+	font-weight: 700;
+	color: var(--primary-clr);
+	margin-right: 20px;
+}
+.footer-contents p{
+	font-size: 16px;
+	color: var(--text-clr);
+}
+.footer-contents p span{
+	color: var(--primary-clr);
+	font-weight: bold;
+}
+
+@media(max-width: 1100px){
+	
+	.navbar ul.nav-links li{
+		margin: 0px 16px;
+	}
+	
+	.services-container .service-box{
+		flex-basis: 48%;
+	}
+	
+	.portfolio .gallery .item{
+		width: calc(100% / 2);
+	}
+}
+
+
+@media(max-width: 768px){
+
+	.navbar .menu-btn{
+		display: block;
+		margin-left: 30px;
+		z-index: 101;
+	}
+	.navbar .menu-btn.active .bar:nth-child(1){
+		transform: translateY(8px) rotate(45deg);
+	}
+	.navbar .menu-btn.active .bar:nth-child(3){
+		transform: translateY(-8px) rotate(-45deg);
+	}
+	.navbar .menu-btn.active .bar:nth-child(2){
+		transform: translateX(-30px);
+		opacity: 0;
+	}
+
+	.navbar ul.nav-links{
+		position: fixed;
+		width: 100%;
+		height: 100vh;
+		top: 0;
+		/*right: 0;*/
+		right: -100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		background-color: var(--primary-light-clr);
+		transition: right 0.3s cubic-bezier(1, 0.3, 0.3, 1);
+		z-index: 100;
+	}
+	.navbar ul.nav-links.active{
+		right: 0;
+	}
+	.navbar ul.nav-links li{
+		margin: 25px 0px 0px;
+	}
+	.navbar ul.nav-links li:nth-child(1){
+		margin-top: 180px;
+	}
+	.navbar ul.nav-links li a{
+		font-size: 18px;
+		letter-spacing: 2px;
+	}
+	.navbar .button-wrapper{
+		margin-left: auto;
+	}
+	.hero .hero-image img{
+		opacity: 0.3;
+	}
+	.home .career-container{
+		grid-template-columns: 1fr;
+	}
+
+
+	.about{
+		flex-direction: column;
+	}
+	.about .about-desc{
+		flex-basis: 100%;
+		margin-left: 0px;
+		margin-top: 20px;
+	}
+	.about-desc .about-personal-info{
+		grid-template-columns: 1fr;
+		grid-gap: 10px 20px;
+		margin-top: 14px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid var(--primary-light-clr);
+	}
+	.about .about-image{
+		flex-basis: 100%;
+		min-height: 300px;
+	}
+	.about .about-image img{
+		min-width: 250px;
+		min-height: 300px;
+	}
+	
+	.services-container .service-box{
+		flex-basis: 100%;
+		margin-bottom: 10px;
+	}
+
+	
+	.resume .resume-row{
+		flex-direction: column;
+	}
+	.resume-row .column-right{
+		margin-top: 30px;
+	}
+	
+	.contact-form .contact-row{
+		flex-direction: column;
+	}
+	.contact-row .column-1,
+	.contact-row .column-2{
+		flex-basis: 100%;
+	}
+	.contact-row .column-1{
+		min-width: 250px;
+		padding: 20px;
+	}
+	.column-2 .form-2 textarea{
+		margin-top: 0px;
+		height: 200px;
+	}
+	.column-2 .form-2 .inputGroup{
+		border: 1px solid #ddd;
+	}
+}
+
+
+@media(max-width: 600px){
+	
+	.portfolio .gallery .item{
+		width: 100%;
+	}
+}
+
+
+@media(max-width: 550px){
+
+	.hero .hero-image{
+		right: -200px;
+	}
+
+	.page-footer .footer-contents{
+		flex-direction: column;
+	}
+	.footer-contents a{
+		margin-bottom: 10px;
+	}
+	.footer-contents p{
+		margin-bottom: 10px;
+	}
+}
+
+
+@media(max-width: 350px){
+	button.contact-btn{
+		display: none;
+	}
+}
+
+
+
+
+JS:
+
+
+
+JS:
+
+var menuBtn = document.querySelector('.menu-btn');
+var menu = document.querySelector('.nav-links');
+var menuLinks = document.querySelectorAll('.nav-links li a');
+
+menuBtn.addEventListener('click', activeClass);
+
+function activeClass(){
+	menuBtn.classList.toggle('active');
+	menu.classList.toggle('active');
+}
+
+for(i = 0; i < menuLinks.length; i++){
+	menuLinks[i].addEventListener('click', menuItemClicked);
+}
+
+function menuItemClicked(){
+	menuBtn.classList.remove('active');
+	menu.classList.remove('active');
+}
+
+var homeSection = document.querySelector('.home');
+window.addEventListener('scroll', scrollFunction);
+window.addEventListener('load', scrollFunction);
+
+function scrollFunction(){
+	if(window.scrollY > 60){
+		homeSection.classList.add('active');
+	}
+	else{
+		homeSection.classList.remove('active');
+	}
+}
+ 
+var $galleryContainer = $('.gallery').isotope({
+	itemSelector: '.item',
+	layoutMode: 'fitRows'
+})
+
+$('.button-group .button').on('click', function(){
+	$('.button-group .button').removeClass('active');
+	$(this).addClass('active');
+
+	var value = $(this).attr('data-filter');
+	$galleryContainer.isotope({
+		filter: value
+	})
+})
+
+
+$('.gallery').magnificPopup({
+	delegate: '.overlay a',
+	type: 'image',
+	gallery:{
+		enabled: true
+	}
+})
+
+$('.testimonials-container').owlCarousel({
+    loop:true,
+    autoplay:true,
+    autoplayTime:6000,
+    margin:10,
+    nav:true,
+    navText:["<i class='fa-solid fa-arrow-left'></i>",
+             "<i class='fa-solid fa-arrow-right'></i>"],
+    responsive:{
+        0:{
+            items:1,
+            nav:false
+        },
+        600:{
+            items:1,
+            nav:true
+        },
+        768:{
+            items:2
+        }
+    }
+})
